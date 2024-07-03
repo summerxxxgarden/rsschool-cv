@@ -7,3 +7,10 @@
 ## About me
 I'm a Data Analyst, who wants to know as much as he can about web development.
 My hobby is Arduino projects and I want to learn how to make web sites for my projects beautiful and attracts the eye.
+
+## Skills
+* Python
+* SQL
+* Git
+* Google Analytics, Yandex Metrika
+* BI instruments
