@@ -31,3 +31,8 @@ function multiply(a, b){
 -----------|:---------:|-----------|
 Feb 2023 - Now|Middle Web-Analyst| lifehacker.ru
 Jan 2021 - Feb 2023|Analyst| fis51.ru
+
+## Education
+
+Murmansk Arctic State University, 2010–2015
+Math method in economy
